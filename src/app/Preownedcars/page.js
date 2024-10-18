@@ -113,7 +113,7 @@ function PreownedCars() {
                                         fontFamily: 'Inter',
                                         fontWeight: 500,
                                     }}>
-                                    Looking to sell your current car or trade it in for a new one? We offer a hassle-free process that guarantees fair evaluation and competitive offers. Our team is here to assist you every step of the way, ensuring a smooth transaction whether you're buying or selling.
+                                    Looking to sell your current car or trade it in for a new one? We offer a hassle-free process that guarantees fair evaluation and competitive offers. Our team is here to assist you every step of the way, ensuring a smooth transaction whether you are buying or selling.
                                 </p>
                             </div>
                             <div className="">

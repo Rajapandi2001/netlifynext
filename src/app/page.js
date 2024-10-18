@@ -79,7 +79,7 @@ function Home_page() {
     text-left tracking-wide
   "
           >
-            At KLM Trader, we believe that trust is built through consistent delivery of quality products and transparent business practices. Our customers' satisfaction is our highest priority, and we strive to exceed their expectations in every transaction.
+            At KLM Trader, we believe that trust is built through consistent delivery of quality products and transparent business practices. Our customers satisfaction is our highest priority, and we strive to exceed their expectations in every transaction.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 mb-10 p-4 cu">

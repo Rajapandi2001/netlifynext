@@ -155,7 +155,7 @@ function AboutsUS() {
                                         lineHeight: '1.2',
                                     }}
                                 >
-                                    Women's Empowerment:
+                                    Women&apos;s Empowerment
                                 </h3>
                                 <p
                                     className="font-inter text-sm sm:text-base lg:text-lg w-full sm:w-[513px]"
@@ -224,7 +224,7 @@ function AboutsUS() {
                         />
                         <h4 className="text-black font-inter font-bold mb-4 text-center text-[16px] leading-[19.36px]">Our Mission</h4>
                         <p className="text-[16px] leading-[19.36px] font-normal font-inter  text-center  lg:mb-44">
-                            To provide high-quality products and services that exceed our customers' expectations while maintaining the highest standards of integrity, transparency, and ethical conduct.
+                            To provide high-quality products and services that exceed our customers expectations while maintaining the highest standards of integrity, transparency, and ethical conduct.
                         </p>
                     </div>
 

@@ -1,10 +1,8 @@
+import CarouselLed from "../../components/CarouselLed";
 function LedDisplays() {
     return (
         <>
-            <div
-                className="relative bg-cover bg-center h-64 md:h-96"
-                style={{ backgroundImage: "url('img/LED Display/led.png')" }}
-            ></div>
+            <CarouselLed></CarouselLed>
             <div className="bg-gradient-to-b from-orange-200 to-slate-100 ">
                 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10 px-4 sm:px-8 md:px-20">
                     <div

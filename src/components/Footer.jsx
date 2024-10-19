@@ -14,16 +14,16 @@ function Footer() {
                     </p>
                     <div className="flex space-x-4 mt-5">
                         <div className="hover:bg-red-500 p-1 rounded-full transition-all">
-                            <Image src="/img/b176bbd0c44c56bc21105eb572cc1694.png" width={30} height={30} alt="Social Media Icon 1" />
+                            <img src="/img/b176bbd0c44c56bc21105eb572cc1694.png" width={30} height={30} alt="Social Media Icon 1" />
                         </div>
                         <div className="hover:bg-red-500 p-1 rounded-full transition-all">
-                            <Image src="/img/9fc297e83754640c21a4d2aee9dd0301.png" width={30} height={30} alt="Social Media Icon 2" />
+                            <img src="/img/9fc297e83754640c21a4d2aee9dd0301.png" width={30} height={30} alt="Social Media Icon 2" />
                         </div>
                         <div className="hover:bg-red-500 p-1 rounded-full transition-all">
-                            <Image src="/img/4a523806236f79f7572fb2c37b13e53d.png" width={30} height={30} alt="Social Media Icon 3" />
+                            <img src="/img/4a523806236f79f7572fb2c37b13e53d.png" width={30} height={30} alt="Social Media Icon 3" />
                         </div>
                         <div className="hover:bg-red-500 p-1 rounded-full transition-all">
-                            <Image src="/img/516b48458d469253da960a6706a15ac4.png" width={30} height={30} alt="Social Media Icon 4" />
+                            <img src="/img/516b48458d469253da960a6706a15ac4.png" width={30} height={30} alt="Social Media Icon 4" />
                         </div>
                     </div>
 

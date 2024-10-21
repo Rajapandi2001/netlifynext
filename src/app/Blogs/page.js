@@ -37,7 +37,7 @@ function Blogs() {
                                 Name of the Article/ <br />Headline for the Article here
                             </h3>
                             <a href="#">
-                                <button className="p-2 md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
+                                <button className="p-2 underline md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
                                     Read more
                                 </button>
                             </a>
@@ -50,7 +50,7 @@ function Blogs() {
                                 Name of the Article/ <br />Headline for the Article here
                             </h3>
                             <a href="#">
-                                <button className="p-2 md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
+                                <button className="p-2 underline md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
                                     Read more
                                 </button>
                             </a>
@@ -63,7 +63,7 @@ function Blogs() {
                                 Name of the Article/ <br />Headline for the Article here
                             </h3>
                             <a href="#">
-                                <button className="p-2 md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
+                                <button className="p-2 underline md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
                                     Read more
                                 </button>
                             </a>
@@ -76,7 +76,7 @@ function Blogs() {
                                 Name of the Article/ <br />Headline for the Article here
                             </h3>
                             <a href="#">
-                                <button className="p-2 md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
+                                <button className="p-2 underline md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
                                     Read more
                                 </button>
                             </a>
@@ -89,7 +89,7 @@ function Blogs() {
                                 Name of the Article/ <br />Headline for the Article here
                             </h3>
                             <a href="#">
-                                <button className="p-2 md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
+                                <button className="p-2 underline md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
                                     Read more
                                 </button>
                             </a>
@@ -102,7 +102,7 @@ function Blogs() {
                                 Name of the Article/ <br />Headline for the Article here
                             </h3>
                             <a href="#">
-                                <button className="p-2 md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
+                                <button className="p-2 underline md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
                                     Read more
                                 </button>
                             </a>
@@ -115,7 +115,7 @@ function Blogs() {
                                 Name of the Article/ <br />Headline for the Article here
                             </h3>
                             <a href="#">
-                                <button className="p-2 md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
+                                <button className="p-2 underline md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
                                     Read more
                                 </button>
                             </a>
@@ -128,7 +128,7 @@ function Blogs() {
                                 Name of the Article/ <br />Headline for the Article here
                             </h3>
                             <a href="#">
-                                <button className="p-2 md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
+                                <button className="p-2 underline md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
                                     Read more
                                 </button>
                             </a>
@@ -141,7 +141,7 @@ function Blogs() {
                                 Name of the Article/ <br />Headline for the Article here
                             </h3>
                             <a href="#">
-                                <button className="p-2 md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
+                                <button className="p-2 underline md:p-4 mt-2 md:mt-4 text-sm md:text-base text-black rounded-md">
                                     Read more
                                 </button>
                             </a>
